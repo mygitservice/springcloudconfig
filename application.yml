@@ -6,9 +6,9 @@ spring:
 spring:
   profiles: dev
   application:
-      name: microconfig-test-dev
+      name: springcloud-config-test-dev
 ---
 spring:
  profiles: default
  application:
-      name: microconfig-test-default
+      name: springcloud-config-test-default
